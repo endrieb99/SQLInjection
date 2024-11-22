@@ -1,8 +1,6 @@
  <?php
     /**
 	* dbInfo.php
-	* @auth Anthony Perez
-	* @date 09/12/21
 	*/
 
     // host location of your mysql instace. ex 'localhost:8889' for phpMyAdmin.
